@@ -1,76 +1,81 @@
 # 📊 Store Sales Dashboard & Forecasting (Power BI)
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Ankitthakur2025/Store-Sales-Dashboard-Forecasting-Power-BI-?style=social" />
+  <img src="https://img.shields.io/github/forks/Ankitthakur2025/Store-Sales-Dashboard-Forecasting-Power-BI-?style=social" />
+  <img src="https://img.shields.io/github/issues/Ankitthakur2025/Store-Sales-Dashboard-Forecasting-Power-BI-" />
+  <img src="https://img.shields.io/github/license/Ankitthakur2025/Store-Sales-Dashboard-Forecasting-Power-BI-" />
+</p>
+
+---
+
+## 🚀 Project Overview
+This project presents an interactive **Store Sales Dashboard** with a **15-Day Sales Forecasting model** built using Power BI.
+
+It helps businesses:
+- Analyze sales performance  
+- Identify trends  
+- Forecast future sales  
+- Make data-driven decisions  
+
+---
+
+## 🧠 Problem Statement
+Businesses often face challenges in:
+- Monitoring regional sales performance  
+- Understanding customer behavior  
+- Predicting future demand  
+
+This dashboard solves these problems using **data visualization + forecasting techniques**.
+
 ---
 
 ## 🛠️ Tech Stack
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+| Tool | Purpose |
+|------|--------|
+| Power BI | Dashboard & Visualization |
+| Excel | Data Source |
+| DAX | Calculations & Measures |
+| Data Modeling | Relationships |
 
 ---
 
-## 📌 Overview
-This project presents an interactive Store Sales Dashboard along with a 15-Day Sales Forecasting system built using Power BI. It provides deep insights into sales performance, customer segments, shipping modes, and regional trends, helping in data-driven decision-making.
+## 📊 Dashboard Preview
 
----
+### 🔹 Main Dashboard
+<img src="assets/dashboard.png" width="100%" />
 
-## 🚀 Features
-- 📍 Region-wise Sales Analysis (Central, East, South, West)
-- 📈 Monthly Sales & Profit Trends (2019 vs 2020)
-- 📦 Sales by Category & Sub-Category
-- 🚚 Shipping Mode Analysis
-- 💳 Payment Mode Distribution
-- 🗺️ State-wise Sales Visualization (Map View)
-- 🔮 15-Day Sales Forecasting
-- 📊 KPI Metrics (Sales, Quantity, Profit, Ship Days)
-
----
-
-## 📂 Dataset
-- Superstore Sales Dataset (Excel)
-- Includes:
-  - Orders & Customers
-  - Regions & Categories
-  - Sales, Profit, Quantity
-
----
-
-## 📸 Dashboard Preview
-
-### 📊 Main Dashboard
-- Sales overview with KPIs
-- Region & segment distribution
-- Category insights
-
-### 🔮 Forecast Dashboard
-- Time-series forecasting
-- 15-day future sales prediction
-- State-level performance
+### 🔹 Sales Forecast (15 Days)
+<img src="assets/forecast.png" width="100%" />
 
 ---
 
 ## 📈 Key Insights
-- West region contributes highest sales (~33%)
-- Consumer segment dominates (~48%)
-- COD is the most used payment mode (~43%)
-- Office Supplies category generates highest revenue
-- Standard Class shipping is most preferred
+- 📍 West region contributes highest sales (~33%)  
+- 👥 Consumer segment dominates (~48%)  
+- 💳 COD is the most used payment mode (~43%)  
+- 🏷️ Office Supplies category generates highest revenue  
+- 🚚 Standard Class shipping is most preferred  
 
 ---
 
-## 🎯 Use Case
-This project is useful for:
-- Data Analysts  
-- Business Analysts  
-- Sales Managers  
-- Decision Makers  
+## 🔮 Forecasting
+- Time-series based forecasting  
+- Predicts next **15 days of sales**  
+- Helps in planning inventory and demand  
+
+---
+
+## 🎯 Business Impact
+- Better decision-making  
+- Improved sales strategy  
+- Identifies growth opportunities  
+- Supports demand forecasting  
 
 ---
 
 ## ⚡ How to Use
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Ankitthakur2025/Store-Sales-Dashboard-Forecasting-Power-BI-.git]
-   
+
+```bash
+git clone https://github.com/Ankitthakur2025/Store-Sales-Dashboard-Forecasting-Power-BI-.git
