@@ -1,14 +1,5 @@
 # 📊 Store Sales Dashboard & Forecasting (Power BI)
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Ankitthakur2025/Store-Sales-Dashboard-Forecasting-Power-BI-?style=social" />
-  <img src="https://img.shields.io/github/forks/Ankitthakur2025/Store-Sales-Dashboard-Forecasting-Power-BI-?style=social" />
-  <img src="https://img.shields.io/github/issues/Ankitthakur2025/Store-Sales-Dashboard-Forecasting-Power-BI-" />
-  <img src="https://img.shields.io/github/license/Ankitthakur2025/Store-Sales-Dashboard-Forecasting-Power-BI-" />
-</p>
-
----
-
 ## 🚀 Project Overview
 This project presents an interactive **Store Sales Dashboard** with a **15-Day Sales Forecasting model** built using Power BI.
 
