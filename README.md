@@ -44,7 +44,7 @@ This dashboard solves these problems using **data visualization + forecasting te
 ## 📊 Dashboard Preview
 
 ### 🔹 Main Dashboard
-<img src="assets/dashboard.png" width="100%" />
+<img src="https://github.com/Ankitthakur2025/Store-Sales-Dashboard-Forecasting-Power-BI-/blob/main/dashboard.png.png" width="100%" />
 
 ### 🔹 Sales Forecast (15 Days)
 <img src="assets/forecast.png" width="100%" />
