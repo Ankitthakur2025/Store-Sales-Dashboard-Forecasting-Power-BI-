@@ -73,4 +73,5 @@ This project is useful for:
 ## ⚡ How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ankitthakur2025/Mobile-Sales-Dashboard.git
+   git clone [https://github.com/Ankitthakur2025/Mobile-Sales-Dashboard.git](https://github.com/Ankitthakur2025/Store-Sales-Dashboard-Forecasting-Power-BI-.git)
+   
