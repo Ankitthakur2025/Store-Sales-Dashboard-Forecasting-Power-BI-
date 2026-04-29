@@ -12,8 +12,7 @@
 ---
 
 ## 📌 Overview
-This project showcases an interactive **Store Sales Dashboard** along with a **15-Day Sales Forecasting system** built using Power BI.  
-It helps analyze sales performance, identify trends, and predict future sales for better decision-making.
+This project presents an interactive Store Sales Dashboard along with a 15-Day Sales Forecasting system built using Power BI. It provides deep insights into sales performance, customer segments, shipping modes, and regional trends, helping in data-driven decision-making.
 
 ---
 
