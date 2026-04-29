@@ -1,10 +1,5 @@
 # 📊 Store Sales Dashboard & Forecasting (Power BI)
 
-![GitHub stars](https://img.shields.io/github/stars/Ankitthakur2025/Mobile-Sales-Dashboard?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Ankitthakur2025/Mobile-Sales-Dashboard?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Ankitthakur2025/Mobile-Sales-Dashboard)
-![GitHub license](https://img.shields.io/github/license/Ankitthakur2025/Mobile-Sales-Dashboard)
-
 ---
 
 ## 🛠️ Tech Stack
